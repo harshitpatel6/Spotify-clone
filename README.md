@@ -1,2 +1,5 @@
 # Spotify-clone
-Spotify clone using React js
+
+Developed & build an improved version of Spotify using React js,Tailwind,Redux & Rapid API. With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more, this is the best music application.
+
+
