@@ -5,9 +5,9 @@ Developed & build an improved version of Spotify using React js,Tailwind,Redux &
 
 ![image](https://github.com/user-attachments/assets/fe6e1034-2104-4537-99c2-013e17a2bdb1)
 
+
 ![image](https://github.com/user-attachments/assets/aafd06f2-72a1-44d8-8fed-17910fbb2cf5)
 
-![image](https://github.com/user-attachments/assets/4c2f51f5-fa33-49e6-8185-7112d76fa5ed)
 
 ![image](https://github.com/user-attachments/assets/dc3556f1-f108-4aaa-b3ae-83b13abadba8)
 
